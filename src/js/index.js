@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 import { tns } from "../../node_modules/tiny-slider/src/tiny-slider"
 
 
@@ -15,3 +16,5 @@ import { tns } from "../../node_modules/tiny-slider/src/tiny-slider"
 //     lazyload: true,
 
 //   });
+=======
+>>>>>>> Stashed changes
