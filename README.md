@@ -13,4 +13,4 @@
 
 * @import './way/style.scss'
 
-*The template is open to experimentation and can work with yarn and c bower :)*
+*The template is open to experimentation and can work with yarn and bower :)*
